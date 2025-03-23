@@ -1,3 +1,4 @@
+# It will approximately take 57 min 39 sec to extract all names
 import requests
 import time
 
