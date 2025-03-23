@@ -1,4 +1,4 @@
-# It will approximately take 57 min 39 sec to extract all names
+# It will approximately take 57 min 39 sec to extract all names of version 2
 import requests
 import time
 
