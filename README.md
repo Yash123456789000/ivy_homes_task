@@ -84,7 +84,7 @@ If the API **returns a 429 (Rate Limit Exceeded)** response:
 | **Supports Special Characters?** | ❌ | ❌ | ✅ (`space`, `+`, `-`, `.`) |
 | **Rate Limit Handling Required?** | ✅ | ✅ | ✅ |
 | **Total Names Extracted** | 18,632 | 13,730 | 12,317 |
-| **Total API Calls Made** | 1,630 | *Unknown* | 1,871 |
+| **Total API Calls Made** | 1,630 | 1960 | 1,871 |
 
 ### **Key Findings**
 1. **Higher `max_results` speeds up extraction.**  
