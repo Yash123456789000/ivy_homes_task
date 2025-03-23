@@ -1,3 +1,4 @@
+# It will approximately take 32 min 53 sec to extract all names of version 3
 import requests
 import time
 
